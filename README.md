@@ -1,7 +1,7 @@
 # node-iso8583
 
 Marco Antonio Orellana O. morello.cl [at] gmail [dot] com
-https://github.com/morello-cl/node-iso-8583
+https://github.com/morello-cl/node-iso8583
 
 # DESCRIPTION
 
